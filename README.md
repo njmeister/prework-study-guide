@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-To use this Prework Study Guide, you can view notes on HTML, CSS, Git, and JavaScript divided into sections. For suggestions on what to study first, open the Chrome DevTools
+To use this Prework Study Guide, you can view notes on HTML, CSS, Git, and JavaScript divided into sections. For suggestions on what to study first, open the Chrome DevTools.
 
 ## Credits
 
